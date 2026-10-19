@@ -1,0 +1,105 @@
+{
+  "books": [
+    {
+      "bookName": "Wings of fire",
+      "author": "A.P.J Abdul Kalam",
+      "category": "Biography",
+      "quantity": 6,
+      "imageName": "",
+      "id": "D7g9slWPM9g"
+    },
+    {
+      "bookName": "Ram c/o Anandi",
+      "author": "Akhil P.Dharmajan",
+      "category": "Other",
+      "quantity": 4,
+      "imageName": "",
+      "id": "fdT5eHQsYvw"
+    },
+    {
+      "bookName": "Premanagaram",
+      "author": "Bineesh Puthuppanam",
+      "category": "Love Story",
+      "quantity": 8,
+      "imageName": "",
+      "id": "Wa1fzoMY2g4"
+    },
+    {
+      "bookName": "Manju",
+      "author": "M.T Vasudevan Nair",
+      "category": "Other",
+      "quantity": 6,
+      "imageName": "",
+      "id": "XkkTHkeH89o"
+    },
+    {
+      "bookName": "Prema Lekhanam",
+      "author": "Vikom Muhammad Basheer",
+      "category": "Love Story",
+      "quantity": 2,
+      "imageName": "",
+      "id": "_CpA9w-G2iY"
+    },
+    {
+      "bookName": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Other",
+      "quantity": 5,
+      "imageName": "",
+      "id": "HJAVPtPwZqM"
+    },
+    {
+      "bookName": "The Foundation Series",
+      "author": "Issac Asimov",
+      "category": "Science",
+      "quantity": 10,
+      "imageName": "",
+      "id": "-LScydEtEbc"
+    },
+    {
+      "bookName": "Meesha",
+      "author": "S.Hareesh",
+      "category": "Other",
+      "quantity": 15,
+      "imageName": "",
+      "id": "mUGB1C-UeLk"
+    },
+    {
+      "bookName": "Aarachar",
+      "author": "K.R.Meera",
+      "category": "Other",
+      "quantity": 3,
+      "imageName": "",
+      "id": "Wsa5Gfx2bUw"
+    },
+    {
+      "bookName": "Ettavum Priyapetta Ennodu",
+      "author": "Nimna Vijay",
+      "category": "Fiction",
+      "quantity": 2,
+      "imageName": "",
+      "id": "0SQU4cRleU0"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "bookId": "Wsa5Gfx2bUw",
+      "review": "Very useful and interesting book.",
+      "rating": 5
+    },
+    {
+      "bookId": "Wsa5Gfx2bUw",
+      "review": "nice",
+      "rating": 4,
+      "id": "9QgtrbHhywY"
+    },
+    {
+      "bookId": "fdT5eHQsYvw",
+      "review": "Gives a good feeling to the readers",
+      "rating": 5,
+      "id": "pYE4olSB8_U"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
